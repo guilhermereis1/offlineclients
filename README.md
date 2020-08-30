@@ -9,3 +9,5 @@
 • Styled components - NOT USED
 • React Navigation - OK
 ```
+
+In this case, I using my API.
